@@ -18,7 +18,6 @@ Computer Engineering student at **The University of Sydney, Australia**.
     </ul>
 </div>
 <div style="display: flex; gap: 1rem; justify-content: center; align-items: flex-start;">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=teddyld&theme=default&show_icons=true" />
     <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddyld&theme=default&exclude_repo=hardware-accelerated-knn,image-style-transfer&layout=compact">
 </div>
 
