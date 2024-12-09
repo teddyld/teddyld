@@ -11,8 +11,19 @@ Computer Engineering student at **The University of Sydney, Australia**.
         <li>🤓 Studying a Bachelor of Engineering (Honours) in Computer Engineering at UNSW.</li>
         <li>🌱 Currently seeking junior and internship job opportunities.</li>
         <li>💻 Exploring new innovations in technology and building software.</li>
-        <li>📑 Find my <a href="https://github.com/teddyld/resume/blob/main/vincentResume.pdf" target="_blank">CV</a></li>
-        <li>👀 Find my <a href="https://teddyld.github.io/" target="_blank">website</a</li>
+        <li>📑 Find my <a href="https://github.com/teddyld/resume/blob/main/vincentResume.pdf" target="_blank">CV</a>.</li>
+        <li>👀 Find my <a href="https://teddyld.github.io/" target="_blank">website</a>.</li>
+    </ul>
+</div>
+
+### 🐒 Skills
+
+<div>
+    <ul>
+        <li>📁 Backend: Python, C, Java, Node.js, Express.js, Flask, Postgres, MongoDB.</li>
+        <li>🎨 Frontend: JavaScript, TypeScript, React.js, TailwindCSS, HTML5, CSS3.</li>
+        <li>🤖 ML/DL: PyTorch, OpenCV, NumPy.</li>
+        <li>🔧 Tools: Git, Agile, Jira.</li>
     </ul>
 </div>
 
