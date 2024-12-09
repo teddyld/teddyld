@@ -20,6 +20,5 @@ Computer Engineering student at **The University of Sydney, Australia**.
 
 ### 🔍 Find me
 
-<a href="https://www.linkedin.com/in/vincentpham2/" target="_blank">
-    LinkedIn
-</a>
+- [LinkedIn](https://www.linkedin.com/in/vincentpham2/)
+- [Email](vincent.pham2@outlook.com)
