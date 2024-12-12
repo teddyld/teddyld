@@ -9,6 +9,7 @@ Computer Engineering student at **The University of Sydney, Australia**.
 <div>
     <ul>
         <li>🤓 Studying a Bachelor of Engineering (Honours) in Computer Engineering at UNSW.</li>
+        <li>🧠 Interested in full stack development and AI applications.</li>
         <li>🌱 Currently seeking junior and internship job opportunities.</li>
         <li>💻 Exploring new innovations in technology and building software.</li>
         <li>📑 Find my <a href="https://github.com/teddyld/resume/blob/main/vincentResume.pdf" target="_blank">CV</a>.</li>
