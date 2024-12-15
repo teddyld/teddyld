@@ -12,7 +12,7 @@ Computer Engineering student at **The University of Sydney, Australia**.
         <li>🧠 Interested in full stack development and AI applications.</li>
         <li>🌱 Currently seeking junior and internship job opportunities.</li>
         <li>💻 Exploring new innovations in technology and building software.</li>
-        <li>📑 Find my <a href="https://github.com/teddyld/resume/blob/main/vincentResume.pdf" target="_blank">CV</a>.</li>
+        <li>📑 Find my <a href="https://vincentpham.vercel.app/vincentResume.pdf" target="_blank">CV</a>.</li>
         <li>👀 Find my <a href="https://teddyld.github.io/" target="_blank">website</a>.</li>
     </ul>
 </div>
