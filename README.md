@@ -10,8 +10,8 @@ Computer Engineering student at **The University of Sydney, Australia**.
 <div>
     <ul>
         <li>🤓 Studying a Bachelor of Engineering (Honours) in Computer Engineering at UNSW.</li>
-        <li>🧠 Interested in full stack development and AI applications.</li>
-        <li>🌱 Currently seeking junior and internship job opportunities.</li>
+        <li>🧠 Interested in full stack development, computer graphics, and AI applications.</li>
+        <li>🌱 Seeking graduate and internship job opportunities.</li>
         <li>📑 Find my <a href="https://vincentpham.vercel.app/vincentResume.pdf" target="_blank">CV</a>.</li>
         <li>👀 Find my <a href="https://teddyld.github.io/" target="_blank">website</a>.</li>
     </ul>
@@ -32,6 +32,8 @@ Computer Engineering student at **The University of Sydney, Australia**.
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40" /> </a>
+    <a href="https://www.opengl.org/" target="_blank" rel="noreferrer> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40" /> </a>
 </p>
 
 ### 🔍 Connect with me
