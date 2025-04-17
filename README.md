@@ -2,8 +2,8 @@
 
 Computer Engineering student at **The University of Sydney, Australia**.
 
-- 🎉 My research ["Occlusion-aware Data Augmentation and Reconstruction for Improving Student Engagement in Online Learning Environments"](https://github.com/teddyld/occlusion-aware-engagement-detection) was accepted into the [Sixth IEEE International Conference on Image Processing Applications and Systems](https://ipas.ieee.tn/).
-  - I was awarded the best session paper for the workshop on AI methods of video analysis for human behaviour recognition
+- 🎉 My research ["Occlusion-aware Data Augmentation and Reconstruction for Improving Student Engagement in Online Learning Environments"](https://ieeexplore.ieee.org/abstract/document/10924475) has been published in IEEE Xplore!
+  - I was awarded the best session paper for the workshop on AI methods of video analysis for human behaviour recognition at the 6th IEEE International Conference on Image Processing Applications and Systems
 
 ### 🤔 About me
 
