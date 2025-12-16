@@ -10,7 +10,7 @@ Computer Engineering student at **The University of Sydney, Australia**.
 <div>
     <ul>
         <li>🤓 Studying a Bachelor of Engineering (Honours) in Computer Engineering at UNSW.</li>
-        <li>🧠 Interested in full stack development, computer graphics, and computer vision.</li>
+        <li>🧠 Interested in front end development, computer graphics, and computer vision.</li>
         <li>📑 Find my <a href="https://vincentpham.vercel.app/vincentResume.pdf" target="_blank">CV</a>.</li>
         <li>👀 Find my <a href="https://teddyld.github.io/" target="_blank">website</a>.</li>
     </ul>
