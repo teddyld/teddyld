@@ -1,7 +1,5 @@
 ## Hi 👋, I'm Vincent
 
-Computer Engineering student at **The University of Sydney, Australia**.
-
 - 🎉 Thesis ["Occlusion-aware Data Augmentation and Reconstruction for Improving Student Engagement in Online Learning Environments"](https://ieeexplore.ieee.org/abstract/document/10924475) published in IEEE Xplore
   - Awarded the best session paper for the workshop on AI methods of video analysis for human behaviour recognition at the 6th IEEE International Conference on Image Processing Applications and Systems
 
@@ -9,7 +7,7 @@ Computer Engineering student at **The University of Sydney, Australia**.
 
 <div>
     <ul>
-        <li>🤓 Studying a Bachelor of Engineering (Honours) in Computer Engineering at UNSW.</li>
+        <li>🤓 Bachelor of Engineering (Honours) in Computer Engineering at UNSW.</li>
         <li>🧠 Interested in front end development, computer graphics, and computer vision.</li>
         <li>📑 Find my <a href="https://vincentpham.vercel.app/vincentResume.pdf" target="_blank">CV</a>.</li>
         <li>👀 Find my <a href="https://teddyld.github.io/" target="_blank">website</a>.</li>
